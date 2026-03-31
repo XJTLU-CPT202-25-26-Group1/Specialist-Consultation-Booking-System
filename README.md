@@ -17,7 +17,7 @@
 | 👥 **Specialist Mgmt** | Expert profiles, expertise categories, availability management |
 | 💰 **Billing System** | Dynamic pricing rules by expertise level & category |
 | 📧 **Notification** | Appointment status alerts (email/in-app - interface ready) |
-| 📱 **Responsive UI** | Bootstrap 5 optimized for desktop/tablet/mobile |
+| 📱 **Responsive UI** | Bootstrap 5 optimized for desktop |
 
 ---
 
@@ -37,7 +37,7 @@
 ### Prerequisites
 - JDK 17+
 - MySQL 8.0+
-- Maven 3.8+
+- Maven 4.05+
 - Git
 
 ### Installation
