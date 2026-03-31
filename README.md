@@ -1,4 +1,4 @@
-# 🌐 Expert Consultancy Appointment System (Option B)
+# 🌐 Expert Consultancy Appointment System  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2%2B-green.svg)](https://spring.io/projects/spring-boot)
