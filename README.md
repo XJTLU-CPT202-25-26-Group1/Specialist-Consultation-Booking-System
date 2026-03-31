@@ -37,7 +37,7 @@
 ### Prerequisites
 - JDK 17+
 - MySQL 8.0+
-- Maven 4.05+
+- Maven 3.9+
 - Git
 
 ### Installation
