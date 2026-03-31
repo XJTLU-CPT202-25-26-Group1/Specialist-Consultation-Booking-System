@@ -1,7 +1,7 @@
 # 🌐 Expert Consultancy Appointment System  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2%2B-green.svg)](https://spring.io/projects/spring-boot)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.05%2B-green.svg)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 [![Scrum](https://img.shields.io/badge/Methodology-Scrum-orange.svg)](https://www.scrum.org/)
 
